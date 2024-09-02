@@ -12,7 +12,7 @@ Ready to take your fitness journey to the next level? **BodyBuddy** is here to b
 - **Exercise Recommendations:** Get personalized workout suggestions tailored to your target areas and fitness goals. No more guesswork—just effective, guided workouts! 🏋️‍♀️💪
 - **User-Friendly Interface:** Enjoy a sleek, intuitive design that makes navigating the app a breeze. Your next workout is just a tap away! 📱🌀
 
-👉 **Elevate your fitness game with BodyBuddy!** 🚴‍♂️🔥
+👉 Elevate your fitness game with BodyBuddy! [Visit BodyBuddy](https://yourbodybuddy.co) 🚴‍♂️🔥
 
 ### 💰 FinCombat
 
@@ -22,7 +22,7 @@ Say goodbye to boring financial education and hello to **FinCombat**—where lea
 - **Diverse Challenges:** Tackle budgeting, saving, investing, debt management, and retirement planning with a variety of interactive challenges. 🏆🎮
 - **Personalized Feedback:** Receive tailored insights to help you understand and master financial concepts. It's like having a financial coach in your pocket! 💼📊
 
-👉 **Join the battle against financial illiteracy with FinCombat!** 🥳💸
+👉 Join the battle against financial illiteracy with FinCombat! [Visit FinCombat](https://fincombat.co) 🥳💸
 
 ## About Us
 
@@ -45,3 +45,9 @@ LinkedIn: [Shambhavi Mishra](https://www.linkedin.com/in/nebulatris)
 **Jigyasa Kumari**  
 GitHub: [Jixiee](https://github.com/Jixiee)  
 LinkedIn: [Jigyasa Kumari](https://www.linkedin.com/in/Jigyasa-Jha/)
+
+
+
+
+
+
